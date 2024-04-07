@@ -1,0 +1,17 @@
+{
+  "name": "redish101-blog",
+  "license": "MIT",
+  "description": "Redish101's blog(hexo editon).",
+  "homepage": "https://blog.redish101.top",
+  "keywords": ["Redish101"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redish101/blog.git"
+  },
+  "authors": [
+    {
+      "name": "Redish101",
+      "email": "i@redish101.top"
+    }
+  ]
+}
